@@ -1,6 +1,5 @@
 import turtle as t
- 
- 
+
 def init_pen():
     '''
     初始化画笔的一些属性
