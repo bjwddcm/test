@@ -6,7 +6,7 @@ def get_long_and_lot(photo):
     :param photo:  传入图片路径
     :return:
     """
-    f = open('D://3.jpg', 'rb')	# 二进制打开图片
+    f = open('‪‪D:/1.jpg', 'rb')	# 二进制打开图片
     msg = exifread.process_file(f)
 
     try:
