@@ -1,6 +1,5 @@
 # coding: utf-8
 
-
 from scene import *
 import sound
 from math import sin, cos, pi, ceil
