@@ -8,7 +8,7 @@ def init_pen():
     t.colormode(255)  # 设置GBK颜色范围为0-255
     t.color((255, 155, 192), "pink")  # 设置画笔颜色和填充颜色(pink)
     t.setup(900, 500)  # 设置主窗口的大小为900*500
-    t.speed(10)  # 设置画笔速度为10
+    t.speed(20)  # 设置画笔速度为10
  
  
 def norse():
