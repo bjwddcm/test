@@ -1,2 +1,3 @@
-str='123 45'
-print(1+len(str))
+a='123'
+b='4567'
+print(len(a)+len(b))
